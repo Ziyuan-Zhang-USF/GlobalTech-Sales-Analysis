@@ -344,13 +344,9 @@ This project demonstrates practical experience with:
 
 ## Author
 
-**Jennifer**
+**Ziyuan Zhang**
 
 Module 9 Assignment  
 Introduction to Data Analysis with Pandas
 
----
 
-## License
-
-This project is intended for academic and educational purposes.
